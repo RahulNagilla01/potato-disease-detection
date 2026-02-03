@@ -1,1 +1,1 @@
-# potaot-disease-detection
+# potato-disease-detection
